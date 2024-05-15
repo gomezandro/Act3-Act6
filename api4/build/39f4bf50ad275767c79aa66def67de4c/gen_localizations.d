@@ -1,0 +1,1 @@
+ C:\\Users\\User\\Documents\\Act4\\api4\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations_en.dart C:\\Users\\User\\Documents\\Act4\\api4\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations.dart:  C:\\Users\\User\\Documents\\Act4\\api4\\l10n.yaml C:\\Users\\User\\Documents\\Act4\\api4\\lib/src/localization\\app_en.arb
